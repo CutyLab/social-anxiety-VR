@@ -1,5 +1,6 @@
 # social-anxiety-VR
 設計減緩社交焦慮情緒之虛擬實境遊戲系統
+
 作者:劉靖絹、林旻萱、馮雅婕
 
 此 project限CUTY lab成員觀看禁止分享。
@@ -60,6 +61,7 @@ https://www.canva.com/design/DAFwdlSZHTk/jgRsHepNFLOjEKaQY2a0WA/edit?utm_content
 
 ## 數據分析
 ### 質化數據
+-逐字稿:
 - 主題式分析：https://miro.com/app/board/uXjVNIfWKlw=/?share_link_id=526362842827
 
 ### 量化數據
@@ -67,7 +69,7 @@ https://www.canva.com/design/DAFwdlSZHTk/jgRsHepNFLOjEKaQY2a0WA/edit?utm_content
 
 
 
-## vrchat世界網址:
+## 完成之vrchat世界網址:
 https://vrch.at/jq4hqd3d
 
 
