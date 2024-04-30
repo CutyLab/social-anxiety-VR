@@ -24,7 +24,7 @@ reference 請到論文裡面用 Ctrl+F 尋找。
 - 層級式的綜合開發環境、視覺化編輯、動態的遊戲預覽
 - 龐大的素材庫，遊戲場景的搭建以免費素材完成
 ![image](https://github.com/CutyLab/social-anxiety-VR/blob/main/picture/VRworld3.png)
-- 使用 c# 進行遊戲腳本的撰寫 [FPSDisplay](script/FPSDisplay.cs)
+- 使用 c# 進行遊戲腳本的撰寫 [worldsetting](assets/)
 - 以 First-person perspective設計：[FPSDisplay](script/)
 - 搭配使用udon programs撰寫 Triggers，讓玩家角色可以與遊戲世界的物件互動，讓系統設計更加遊戲化
    - 任務進行時可以拾起場景內的物件與其他角色互動
@@ -61,12 +61,13 @@ https://www.canva.com/design/DAFwdlSZHTk/jgRsHepNFLOjEKaQY2a0WA/edit?utm_content
 
 ## 數據分析
 ### 質化數據
--逐字稿:
+- [逐字稿](訪談逐字稿.pdf)
 - 主題式分析：https://miro.com/app/board/uXjVNIfWKlw=/?share_link_id=526362842827
 
 ### 量化數據
 ![image](https://github.com/CutyLab/social-anxiety-VR/blob/main/picture/chart%20(3).png)
 
+詳細分析請參閱結案報告[SocialAnxietyVR_結案報告](SocialAnxietyVR_結案報告.pdf)
 
 
 ## 完成之vrchat世界網址:
