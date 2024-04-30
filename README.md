@@ -8,7 +8,7 @@
 reference 請到論文裡面用 Ctrl+F 尋找。
 
 ## 動機
-實驗動機及研究問題請參閱國科會結案報告。
+實驗動機及研究問題請參閱國科會結案報告。[SocialAnxietyVR_結案報告](SocialAnxietyVR_結案報告.pdf)
 
 ## 系統實作
 - 確立任務的設計及遊戲的背景
@@ -24,8 +24,8 @@ reference 請到論文裡面用 Ctrl+F 尋找。
 - 層級式的綜合開發環境、視覺化編輯、動態的遊戲預覽
 - 龐大的素材庫，遊戲場景的搭建以免費素材完成
 ![image](https://github.com/CutyLab/social-anxiety-VR/blob/main/picture/VRworld3.png)
-- 使用 c# 進行遊戲腳本的撰寫
-- 以 First-person perspective設計：FPSDisplay.cs
+- 使用 c# 進行遊戲腳本的撰寫 [FPSDisplay](script/FPSDisplay.cs)
+- 以 First-person perspective設計：[FPSDisplay](script/)
 - 搭配使用udon programs撰寫 Triggers，讓玩家角色可以與遊戲世界的物件互動，讓系統設計更加遊戲化
    - 任務進行時可以拾起場景內的物件與其他角色互動
 
