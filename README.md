@@ -45,6 +45,7 @@ reference 請到論文裡面用 Ctrl+F 尋找。
 
 ### 使用者實驗
 - 投放事前問卷：使用Liebowitz社交焦慮量表（LSAS）作為資料收集用途，數據用於得知系統需實作哪些情境，以及得知群眾之焦慮程度分布。
+
 ![image](https://github.com/CutyLab/social-anxiety-VR/blob/main/picture/chart%20(2).png)
 ![image](https://github.com/CutyLab/social-anxiety-VR/blob/main/picture/chart%20(1).png)
 
